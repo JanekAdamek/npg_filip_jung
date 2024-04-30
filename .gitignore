@@ -1,1 +1,6 @@
 'moj_tekst.txt'
+'log'
+'build'
+'*.pdf'
+'*.tmp'
+'*.log'
