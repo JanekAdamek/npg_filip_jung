@@ -1,6 +1,6 @@
 'moj_tekst.txt'
-'log'
-'build'
-'*.pdf'
-'*.tmp'
-'*.log'
+log
+build
+*.pdf
+*.tmp
+*.log
